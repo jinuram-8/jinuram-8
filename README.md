@@ -9,6 +9,13 @@
 
 ---
 
+### 🧠 About Me
+- 🎓 AI, ML & Data Science Student  
+- 💡 Interested in building real-world AI applications  
+- 🚀 Focused on NLP & Intelligent Systems  
+
+---
+
 ### 🔭 Current Work
 - 🧠 **AI Resume Analyzer & Recruiter System**
 
@@ -18,13 +25,13 @@
 - 🤖 Machine Learning  
 - 🧠 Deep Learning  
 - 📊 Data Science  
-- 🗣️ NLP (Natural Language Processing)  
+- 🗣️ Natural Language Processing  
 
 ---
 
 ### 👯 Collaboration
 - 🤝 Open to **AI & Machine Learning Projects**  
-- 📌 Focus: Resume Screening / NLP-based Applications  
+- 📌 Focus: Resume Screening & NLP Applications  
 
 ---
 
@@ -42,10 +49,45 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🌐 Connect With Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,pandas,github,vscode" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### 💻 Programming & Web
+- Python  
+- SQL  
+- HTML, CSS  
+
+#### 🤖 Machine Learning
+- Machine Learning Fundamentals  
+- Linear Regression, Logistic Regression  
+- Decision Trees, Random Forest  
+- K-Nearest Neighbors (KNN), K-Means  
+- Naive Bayes  
+- Support Vector Machines (SVM)  
+
+#### 🧠 Deep Learning
+- Neural Networks  
+- CNN (Basics)  
+- TensorFlow / PyTorch (Beginner)  
+
+#### 📊 Data Science
+- NumPy, Pandas  
+- Matplotlib, Seaborn  
+- Statistics & Probability  
+- Data Cleaning & Feature Engineering  
+
+#### 🧰 Tools
+- Jupyter Notebook  
+- VS Code  
+- Git & GitHub  
 
 ---
 
@@ -54,3 +96,8 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
