@@ -36,7 +36,7 @@
 ---
 
 ### 💬 Ask Me About
-- 🐍 Python, SQL, HTML, CSS  
+- 🐍 Python, HTML, 
 - 🤖 Machine Learning (Regression, Decision Trees, Random Forest, KNN, K-Means, Naive Bayes, SVM)  
 - 🧠 Deep Learning (Neural Networks, CNN Basics, TensorFlow, PyTorch)  
 - 📊 Data Science (NumPy, Pandas, Matplotlib, Seaborn, Statistics & Probability)  
@@ -59,36 +59,6 @@
 
 ---
 
-### 🛠️ Skills & Technologies
-
-#### 💻 Programming & Web
-- Python  
-- SQL  
-- HTML, CSS  
-
-#### 🤖 Machine Learning
-- Machine Learning Fundamentals  
-- Linear Regression, Logistic Regression  
-- Decision Trees, Random Forest  
-- K-Nearest Neighbors (KNN), K-Means  
-- Naive Bayes  
-- Support Vector Machines (SVM)  
-
-#### 🧠 Deep Learning
-- Neural Networks  
-- CNN (Basics)  
-- TensorFlow / PyTorch (Beginner)  
-
-#### 📊 Data Science
-- NumPy, Pandas  
-- Matplotlib, Seaborn  
-- Statistics & Probability  
-- Data Cleaning & Feature Engineering  
-
-#### 🧰 Tools
-- Jupyter Notebook  
-- VS Code  
-- Git & GitHub  
 
 ---
 
