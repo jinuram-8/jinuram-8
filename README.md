@@ -36,11 +36,12 @@
 ---
 
 ### 💬 Ask Me About
-- 🐍 Python  
-- 🤖 Machine Learning  
-- 🧠 AI Projects  
-- 📄 Resume Analyzer  
-- 🗣️ NLP  
+- 🐍 Python, SQL, HTML, CSS  
+- 🤖 Machine Learning (Regression, Decision Trees, Random Forest, KNN, K-Means, Naive Bayes, SVM)  
+- 🧠 Deep Learning (Neural Networks, CNN Basics, TensorFlow, PyTorch)  
+- 📊 Data Science (NumPy, Pandas, Matplotlib, Seaborn, Statistics & Probability)  
+- 🛠️ Data Cleaning & Feature Engineering  
+- 📄 AI Resume Analyzer & NLP Projects  
 
 ---
 
