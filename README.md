@@ -16,41 +16,41 @@
 
 ---
 
-### 🔭 Current Work
-- 🧠 **AI Resume Analyzer & Recruiter System**
+###  Current Work
+-  **AI Resume Analyzer & Recruiter System**
 
 ---
 
-### 🌱 Currently Learning
-- 🤖 Machine Learning  
-- 🧠 Deep Learning  
-- 📊 Data Science  
-- 🗣️ Natural Language Processing  
+###  Currently Learning
+-  Machine Learning  
+-  Deep Learning  
+-  Data Science  
+-  Natural Language Processing  
 
 ---
 
-### 👯 Collaboration
-- 🤝 Open to **AI & Machine Learning Projects**  
-- 📌 Focus: Resume Screening & NLP Applications  
+###  Collaboration
+-  Open to **AI & Machine Learning Projects**  
+-  Focus: Resume Screening & NLP Applications  
 
 ---
 
-### 💬 Ask Me About
-- 🐍 Python, HTML, 
-- 🤖 Machine Learning (Regression, Decision Trees, Random Forest, KNN, K-Means, Naive Bayes, SVM)  
-- 🧠 Deep Learning (Neural Networks, CNN Basics, TensorFlow, PyTorch)  
-- 📊 Data Science (NumPy, Pandas, Matplotlib, Seaborn, Statistics & Probability)  
-- 🛠️ Data Cleaning & Feature Engineering  
-- 📄 AI Resume Analyzer & NLP Projects  
+###  Ask Me About
+-  Python, HTML, 
+-  Machine Learning (Regression, Decision Trees, Random Forest, KNN, K-Means, Naive Bayes, SVM)  
+-  Deep Learning (Neural Networks, CNN Basics, TensorFlow, PyTorch)  
+-  Data Science (NumPy, Pandas, Matplotlib, Seaborn, Statistics & Probability)  
+-  Data Cleaning & Feature Engineering  
+-  AI Resume Analyzer & NLP Projects  
 
 ---
 
-### 📫 Contact Me
-- 📧 **jinuram328@gmail.com**
+###  Contact Me
+-  **jinuram328@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
@@ -62,12 +62,12 @@
 
 ---
 
-### ⚡ Fun Fact
-💡 I build real-world AI projects like Resume Analyzer & Self-Driving systems while learning 🚀
+###  Fun Fact
+ I build real-world AI projects like Resume Analyzer & Self-Driving systems while learning 🚀
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
