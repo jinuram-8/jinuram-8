@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Jinu Ram CM</h1>
-<h3 align="center">🚀 AI | ML | Data Science Enthusiast</h3>
+<h1 align="center"> Hi, I'm Jinu Ram CM</h1>
+<h3 align="center"> AI | ML | Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Learner-blue?style=for-the-badge" />
@@ -9,10 +9,10 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 AI, ML & Data Science Student  
-- 💡 Interested in building real-world AI applications  
-- 🚀 Focused on NLP & Intelligent Systems  
+###  About Me
+-  AI, ML & Data Science Student  
+-  Interested in building real-world AI applications  
+-  Focused on NLP & Intelligent Systems  
 
 ---
 
